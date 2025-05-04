@@ -1,12 +1,9 @@
 ## # Comandos principales
 
 - Comando para levanar el servidor de Whisper:
-
 - /Users/demoUser/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/venv/bin/python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
-
-
-- Ruta de directorio de prueba: /Users/demoUser/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app
-
+- Ruta de directorio de prueba: 
+- /Users/demoUser/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app
 - Prueba para el endpoint desde terminal 
 
 - curl -X POST http://localhost:11004/api/v1/transcribe -F "audio=@/Users/demoUser/Downloads/ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3"
