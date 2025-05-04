@@ -1,0 +1,144 @@
+2025-05-02 16:56:37,803 - whisper-service - ERROR - Faltan dependencias requeridas: python-multipart (instalar con: pip install python-multipart)
+2025-05-02 17:06:49,915 - whisper-service - ERROR - Faltan dependencias requeridas: multipart (instalar con: pip install python-multipart)
+2025-05-02 17:09:46,172 - whisper-service - ERROR - Faltan dependencias requeridas: multipart (instalar con: pip install python-multipart)
+2025-05-02 17:12:54,423 - whisper-service - ERROR - Faltan dependencias requeridas: multipart (instalar con: pip install python-multipart==0.0.20)
+2025-05-02 17:30:59,053 - whisper-service - ERROR - Faltan dependencias requeridas: multipart (instalar con: pip install python-multipart)
+2025-05-02 17:37:30,626 - whisper-service - WARNING - Error al importar multipart: No module named 'multipart'
+2025-05-02 17:37:30,626 - whisper-service - ERROR - Faltan dependencias requeridas: multipart (instalar con: pip install python-multipart)
+2025-05-02 17:41:33,900 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-02 17:41:33,908 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-02 17:46:14,769 - whisper-service - WARNING - Error al importar python-multipart: No module named 'python-multipart'
+2025-05-02 20:53:21,492 - whisper-service - WARNING - Error al importar python-multipart: No module named 'python-multipart'
+2025-05-03 13:25:38,618 - whisper-service - INFO - Received audio file: audio.webm, size: 25596 bytes
+2025-05-03 13:25:38,625 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/9cd6a51b-890f-4406-95b6-b7f58bfcc396.webm
+2025-05-03 13:25:38,626 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 13:25:39,893 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 13:25:39,894 - whisper-service - WARNING - Error loading model (attempt 1/3): name 'MockWhisperModel' is not defined
+2025-05-03 13:25:40,899 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 13:25:40,984 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 13:25:40,984 - whisper-service - WARNING - Error loading model (attempt 2/3): name 'MockWhisperModel' is not defined
+2025-05-03 13:25:41,989 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 13:25:42,055 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 13:25:42,055 - whisper-service - WARNING - Error loading model (attempt 3/3): name 'MockWhisperModel' is not defined
+2025-05-03 13:25:42,055 - whisper-service - ERROR - Failed to load model after 3 attempts
+2025-05-03 18:34:40,186 - whisper-service - INFO - Received audio file: audio.webm, size: 38040 bytes
+2025-05-03 18:34:40,198 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/9275632a-8d8b-43b1-9003-0f6035f51152.webm
+2025-05-03 18:34:40,199 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:34:41,375 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:34:41,376 - whisper-service - WARNING - Error loading model (attempt 1/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:34:42,383 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:34:42,486 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:34:42,487 - whisper-service - WARNING - Error loading model (attempt 2/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:34:43,492 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:34:43,572 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:34:43,573 - whisper-service - WARNING - Error loading model (attempt 3/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:34:43,573 - whisper-service - ERROR - Failed to load model after 3 attempts
+2025-05-03 18:39:19,978 - whisper-service - INFO - Received audio file: audio.webm, size: 46811 bytes
+2025-05-03 18:39:19,985 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/92be5d5c-ac6f-4fac-a973-bf53948c8452.webm
+2025-05-03 18:39:19,985 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:39:21,175 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:39:21,176 - whisper-service - WARNING - Error loading model (attempt 1/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:39:22,180 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:39:22,249 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:39:22,250 - whisper-service - WARNING - Error loading model (attempt 2/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:39:23,250 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 18:39:23,336 - whisper-service - ERROR - Error loading Whisper model: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)>
+2025-05-03 18:39:23,336 - whisper-service - WARNING - Error loading model (attempt 3/3): name 'MockWhisperModel' is not defined
+2025-05-03 18:39:23,336 - whisper-service - ERROR - Failed to load model after 3 attempts
+2025-05-03 18:41:41,136 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-03 18:41:41,198 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-03 18:42:35,819 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-03 18:42:35,865 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-03 18:42:35,869 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-03 19:08:41,118 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-03 19:08:41,120 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/953e8fdd-881a-4694-ba90-aefaca0c962c.mp3
+2025-05-03 19:08:41,120 - whisper-service - INFO - Loading Whisper model...
+2025-05-03 19:08:58,931 - whisper-service - INFO - Whisper model 'base' loaded successfully
+2025-05-03 19:08:58,931 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/953e8fdd-881a-4694-ba90-aefaca0c962c.mp3
+2025-05-03 19:09:17,297 - whisper-service - INFO - Transcription completed in 36.18 seconds
+2025-05-04 11:54:40,387 - whisper-service - INFO - Received audio file: audio.webm, size: 51850 bytes
+2025-05-04 11:54:40,393 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/2cb7f7fc-ec61-4683-b747-89541c8014b8.webm
+2025-05-04 11:54:40,395 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/2cb7f7fc-ec61-4683-b747-89541c8014b8.webm
+2025-05-04 11:54:55,026 - whisper-service - INFO - Transcription completed in 14.64 seconds
+2025-05-04 11:55:25,152 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-04 11:55:25,155 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 11:55:33,396 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-04 11:55:33,405 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-04 11:55:33,406 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 11:55:42,589 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 11:55:42,590 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/135c438a-2521-4b16-b3f9-d17185825f44.mp3
+2025-05-04 11:55:42,590 - whisper-service - INFO - Loading Whisper model...
+2025-05-04 11:55:43,679 - whisper-service - INFO - Whisper model 'base' loaded successfully
+2025-05-04 11:55:43,679 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/135c438a-2521-4b16-b3f9-d17185825f44.mp3
+2025-05-04 11:55:45,755 - whisper-service - INFO - Transcription completed in 3.17 seconds
+2025-05-04 11:58:57,154 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 11:58:57,155 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/c6bfcc13-c393-4d41-acdb-814e4ae22d65.mp3
+2025-05-04 11:58:57,155 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/c6bfcc13-c393-4d41-acdb-814e4ae22d65.mp3
+2025-05-04 11:58:59,461 - whisper-service - INFO - Transcription completed in 2.31 seconds
+2025-05-04 12:04:57,392 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 12:04:57,393 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/d5a3a266-5e7a-4f46-9fab-5ffc0ee93caf.mp3
+2025-05-04 12:04:57,393 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/d5a3a266-5e7a-4f46-9fab-5ffc0ee93caf.mp3
+2025-05-04 12:04:59,237 - whisper-service - INFO - Transcription completed in 1.84 seconds
+2025-05-04 12:06:24,886 - whisper-service - INFO - Received audio file: audio.webm, size: 30364 bytes
+2025-05-04 12:06:24,887 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/ce59d21e-b9af-49bd-90bd-c01fd7f7748e.webm
+2025-05-04 12:06:24,887 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/ce59d21e-b9af-49bd-90bd-c01fd7f7748e.webm
+2025-05-04 12:06:31,409 - whisper-service - INFO - Transcription completed in 6.52 seconds
+2025-05-04 12:08:01,761 - whisper-service - INFO - Received audio file: audio.webm, size: 47925 bytes
+2025-05-04 12:08:01,764 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/b7ab9487-852c-4bf8-a6c3-c795b85a8c62.webm
+2025-05-04 12:08:01,765 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/b7ab9487-852c-4bf8-a6c3-c795b85a8c62.webm
+2025-05-04 12:08:04,930 - whisper-service - INFO - Transcription completed in 3.17 seconds
+2025-05-04 12:09:56,842 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 12:09:56,843 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/8f73beb1-cd8e-440e-84cc-a88625507caa.mp3
+2025-05-04 12:09:56,844 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/8f73beb1-cd8e-440e-84cc-a88625507caa.mp3
+2025-05-04 12:09:58,867 - whisper-service - INFO - Transcription completed in 2.02 seconds
+2025-05-04 12:10:36,333 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-04 12:10:36,334 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:19:39,715 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-04 12:19:39,721 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-04 12:19:39,722 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:20:33,872 - whisper-service - WARNING - Error al importar python-multipart: No module named 'python-multipart'
+2025-05-04 12:29:22,157 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-04 12:29:22,161 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:29:34,322 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-04 12:29:34,327 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-04 12:29:34,327 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:29:37,153 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-04 12:29:37,154 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:36:51,493 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-04 12:36:51,500 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-04 12:36:51,500 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:42:08,316 - whisper-service - INFO - Deteniendo el servicio de transcripción
+2025-05-04 12:42:08,317 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:43:29,764 - whisper-service - INFO - Módulo whisper importado correctamente
+2025-05-04 12:43:29,771 - whisper-service - INFO - Iniciando el servicio de transcripción
+2025-05-04 12:43:29,771 - whisper-service - INFO - Limpieza de archivos temporales completada
+2025-05-04 12:44:54,851 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 12:44:54,852 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/d3750c4d-2a88-4110-8be5-b35fd15c8af0.mp3
+2025-05-04 12:44:54,852 - whisper-service - INFO - Loading Whisper model...
+2025-05-04 12:44:56,169 - whisper-service - INFO - Whisper model 'base' loaded successfully
+2025-05-04 12:44:56,169 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/d3750c4d-2a88-4110-8be5-b35fd15c8af0.mp3
+2025-05-04 12:44:58,535 - whisper-service - INFO - Transcription completed in 3.68 seconds
+2025-05-04 12:54:55,833 - whisper-service - INFO - Received audio file: audio.webm, size: 158732 bytes
+2025-05-04 12:54:55,837 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/1b67f844-43f0-4542-ae5a-958b6e20a1c8.webm
+2025-05-04 12:54:55,839 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/1b67f844-43f0-4542-ae5a-958b6e20a1c8.webm
+2025-05-04 12:54:58,825 - whisper-service - INFO - Transcription completed in 2.99 seconds
+2025-05-04 13:02:54,749 - whisper-service - INFO - Received audio file: audio.webm, size: 116936 bytes
+2025-05-04 13:02:54,751 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/dbcb1d45-e7ec-4d5c-a7b8-d5d16c633fdc.webm
+2025-05-04 13:02:54,752 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/dbcb1d45-e7ec-4d5c-a7b8-d5d16c633fdc.webm
+2025-05-04 13:02:58,164 - whisper-service - INFO - Transcription completed in 3.42 seconds
+2025-05-04 13:16:07,976 - whisper-service - INFO - Received audio file: audio.webm, size: 133370 bytes
+2025-05-04 13:16:07,981 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/dd2e4795-7552-41b0-b882-a9a26b47bc8d.webm
+2025-05-04 13:16:07,983 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/dd2e4795-7552-41b0-b882-a9a26b47bc8d.webm
+2025-05-04 13:16:12,745 - whisper-service - INFO - Transcription completed in 4.77 seconds
+2025-05-04 13:23:29,951 - whisper-service - INFO - Received audio file: audio.webm, size: 145167 bytes
+2025-05-04 13:23:29,955 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/2e2ea0fc-3b24-42ab-b315-e3075a4eb5bb.webm
+2025-05-04 13:23:29,955 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/2e2ea0fc-3b24-42ab-b315-e3075a4eb5bb.webm
+2025-05-04 13:23:34,416 - whisper-service - INFO - Transcription completed in 4.46 seconds
+2025-05-04 13:30:54,774 - whisper-service - INFO - Received audio file: audio.webm, size: 149839 bytes
+2025-05-04 13:30:54,775 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/75e3bb08-8454-4327-93f0-f122b73abb0c.webm
+2025-05-04 13:30:54,776 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/75e3bb08-8454-4327-93f0-f122b73abb0c.webm
+2025-05-04 13:31:00,548 - whisper-service - INFO - Transcription completed in 5.77 seconds
+2025-05-04 13:49:27,067 - whisper-service - INFO - Received audio file: ttsMP3.com_VoiceText_2025-5-3_19-4-43.mp3, size: 2553 bytes
+2025-05-04 13:49:27,073 - whisper-service - INFO - Audio file saved to temporary location: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/77d5c79c-f96a-49f3-aafc-b2db4c2d8f24.mp3
+2025-05-04 13:49:27,075 - whisper-service - INFO - Starting transcription of file: /Users/eber/Documents/Proyectos/IA/OpenIA/VozParaFrontDeepSeek/whisper-service/app/temp_audio/77d5c79c-f96a-49f3-aafc-b2db4c2d8f24.mp3
+2025-05-04 13:49:30,382 - whisper-service - INFO - Transcription completed in 3.31 seconds
